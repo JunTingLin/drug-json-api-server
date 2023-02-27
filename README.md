@@ -30,6 +30,9 @@ npm下載，其實也非常方便(需裝好Node.js)
 
 `json:server": "json-server --watch db.json`
 
+![image](https://user-images.githubusercontent.com/92431095/221579582-6260780a-a8ee-4de8-9a6b-194f2e77acea.png)
+
+
 repo: https://github.com/typicode/json-server
 
 tutorial: https://www.youtube.com/watch?v=1zkgdLZEdwM&ab_channel=TraversyMedia
