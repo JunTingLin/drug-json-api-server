@@ -1,5 +1,7 @@
 # drug-json-api-server
 
+## 不可更動之假資料(模擬回應正常，但資料不更新)
+
 https://my-json-server.typicode.com/JunTingLin/drug-json-api-server
 
 https://my-json-server.typicode.com/JunTingLin/drug-json-api-server/drugs
@@ -17,4 +19,17 @@ https://my-json-server.typicode.com/JunTingLin/drug-json-api-server/drugs
 ![image](https://user-images.githubusercontent.com/92431095/221526122-d82df3b9-c9af-43d8-99d7-f898aafd7376.png)
 
 ![image](https://user-images.githubusercontent.com/92431095/221526491-8dab3888-3b55-41a5-af10-6f7d56892fef.png)
+
+## 可更動之假資料
+其實也非常方便npm下載(需裝好Node.js)
+`npm init`
+`npm install -save json-server`
+(-g 是global)
+
+repo: https://github.com/typicode/json-server
+
+tutorial: https://www.youtube.com/watch?v=1zkgdLZEdwM&ab_channel=TraversyMedia
+
+
+
 
