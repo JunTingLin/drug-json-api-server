@@ -20,7 +20,7 @@ https://my-json-server.typicode.com/JunTingLin/drug-json-api-server/drugs
 
 ![image](https://user-images.githubusercontent.com/92431095/221526491-8dab3888-3b55-41a5-af10-6f7d56892fef.png)
 
-## 可更動之假資料
+## 可更動之假資料(有效請求後db.json資料會變)
 npm下載，其實也非常方便(需裝好Node.js)
 
 `npm init`
