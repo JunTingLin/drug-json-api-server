@@ -21,10 +21,14 @@ https://my-json-server.typicode.com/JunTingLin/drug-json-api-server/drugs
 ![image](https://user-images.githubusercontent.com/92431095/221526491-8dab3888-3b55-41a5-af10-6f7d56892fef.png)
 
 ## 可更動之假資料
-其實也非常方便npm下載(需裝好Node.js)
+npm下載，其實也非常方便(需裝好Node.js)
+
 `npm init`
+
 `npm install -save json-server`
 (-g 是global)
+
+`json:server": "json-server --watch db.json`
 
 repo: https://github.com/typicode/json-server
 
