@@ -1,6 +1,6 @@
 # drug-json-api-server
 
-
+https://my-json-server.typicode.com/JunTingLin/drug-json-api-server
 https://my-json-server.typicode.com/JunTingLin/drug-json-api-server/drugs
 
 | 目的       | 方法        | URL         |
