@@ -8,11 +8,11 @@ https://my-json-server.typicode.com/JunTingLin/drug-json-api-server/records
 
 | 目的       | 方法        | URL         |
 | -------- | --------- | ----------- |
-| 取得所有藥物資料 | GET       | /drugs      |
-| 取得某藥物資料  | GET       | /drugs/1    |
-| 新增藥物     | POST      | /drugs      |
-| 更改某藥物資料  | PUT/PATCH | /drugs/{id} |
-| 刪除某藥物    | DELETE    | /drugs/{id} |
+| 取得所有藥物資料 | GET       | /records      |
+| 取得某藥物資料  | GET       | /records/1    |
+| 新增藥物     | POST      | /records      |
+| 更改某藥物資料  | PUT/PATCH | /records/{id} |
+| 刪除某藥物    | DELETE    | /records/{id} |
 
 註解: 新增、修改、刪除會傳回正確成功資訊，但不會真的影響，僅作為練習使用
 
