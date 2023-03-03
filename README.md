@@ -4,7 +4,7 @@
 
 https://my-json-server.typicode.com/JunTingLin/drug-json-api-server
 
-https://my-json-server.typicode.com/JunTingLin/drug-json-api-server/drugs
+https://my-json-server.typicode.com/JunTingLin/drug-json-api-server/records
 
 | 目的       | 方法        | URL         |
 | -------- | --------- | ----------- |
