@@ -32,6 +32,7 @@
         }
       ]
     },
+   
     {
       "id": 2,
       "dosage": 1,
@@ -87,6 +88,58 @@
   "historyRecord":[
     {
       "id": 1
+    }
+  ],
+  "reminder":[
+    {
+        "id":1,
+        "drug":{
+            "id":"23",
+            "name":"Alepam"
+        },
+        "timeSlot":"8:00",
+        "dosage":1,
+        "demand":"0"
+    },
+    {
+        "id":2,
+        "drug":{
+            "id":"10",
+            "name":"Acertil"
+        },
+        "timeSlot":"8:00",
+        "dosage":1,
+        "demand":"1"
+    },
+    {
+        "id":3,
+        "drug":{
+            "id":"26",
+            "name":"Cefa"
+        },
+        "timeSlot":"8:00",
+        "dosage":1,
+        "demand":"0"
+    },
+    {
+        "id":4,
+        "drug":{
+            "id":"23",
+            "name":"Alepam"
+        },
+        "timeSlot":"12:00",
+        "dosage":1,
+        "demand":"0"
+    },
+    {
+        "id":5,
+        "drug":{
+            "id":"26",
+            "name":"Cefa"
+        },
+        "timeSlot":"12:00",
+        "dosage":1,
+        "demand":"0"
     }
   ]
 }
