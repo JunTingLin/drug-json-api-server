@@ -214,20 +214,18 @@
         "repeat":2
     }
   },
-  "add_reminder":{
-    [
-      {
-          "id":220,
-          "name_eng":"Acertil",
-          "name_man":"雅施達",
-          "indications":"血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。"
-      },
-      {
-          "id":119,
-          "name_eng":"Beclomethasone",
-          "nmae_man":"貝克每松",
-          "indications":"治療長期的氣喘"
-      }
-    ]
-  }
+  "add_reminder":[
+    {
+        "id":220,
+        "name_eng":"Acertil",
+        "name_man":"雅施達",
+        "indications":"血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。"
+    },
+    {
+        "id":119,
+        "name_eng":"Beclomethasone",
+        "nmae_man":"貝克每松",
+        "indications":"治療長期的氣喘"
+    }
+  ]
 }
