@@ -84,7 +84,7 @@
     },
     "drugPosition":4
   },
-  "medicineBagIdentification":{
+  "addRecord":{
     "id":77,
     "name_eng":"Acertil",
     "name_man":"雅施達",
@@ -122,56 +122,6 @@
         "repeat":0
     }
   },
-  "addManually":{
-    "id":90,
-    "name":"Bigunal",
-    "hospitalDepartment":"內分泌新陳代謝科",
-    "hospitalName":"台北市立聯合醫院",
-    "demand":1,
-    "appearance":"白色帶斑點的圓扁形藥錠。",
-    "indications":"可減少葡萄糖的吸收及降低肝臟製造葡萄糖，並增加胰島素的敏感性，達到控制血糖的效果，主要用來治療第二型(非胰島素依賴型)糖尿病。",
-    "sideEffect":"腹瀉、噁心或嘔吐等腸胃道不適",
-    "frequency":{
-        "type":1,
-        "times":3
-    },
-    "dosage":1,
-    "timeInterval":"4 小時",
-    "timeSlot":[
-        "08:00:00",
-        "12:00:00",
-        "20:00:00"
-    ],
-    "stock":20,
-    "notificationSetting":{
-        "status":1,
-        "volume":10,
-        "remind":10,
-        "repeat":3
-    },
-    "returnSetting":{
-        "status":1,
-        "date":"2023/02/20",
-        "left":10,
-        "repeat":2
-    }
-  },
-  "addReminder":[
-    {
-        "id":220,
-        "demand":1,
-        "name_eng":"Acertil",
-        "name_man":"雅施達",
-        "indications":"血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。"
-    },
-    {
-        "id":119,
-        "demand":1,
-        "name_eng":"Beclomethasone",
-        "nmae_man":"貝克每松",
-        "indications":"治療長期的氣喘"
-    }
-  ],
   "historyRecord":[
     {
         "id":230,
