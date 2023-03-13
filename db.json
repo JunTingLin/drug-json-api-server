@@ -1,138 +1,11 @@
 {
-  "reminder":[
-    {
-        "drug":{
-            "id":"23",
-            "name":"Alepam"
-        },
-        "timeSlot":"8:00",
-        "dosage":1
-    },
-    {
-        "drug":{
-            "id":"10",
-            "name":"Acertil"
-        },
-        "timeSlot":"8:00",
-        "dosage":1
-    },
-    {
-        "drug":{
-            "id":"26",
-            "name":"Cefa"
-        },
-        "timeSlot":"8:00",
-        "dosage":1
-    },
-    {
-        "drug":{
-            "id":"23",
-            "name":"Alepam"
-        },
-        "timeSlot":"12:00",
-        "dosage":1
-    },
-    {
-        "drug":{
-            "id":"26",
-            "name":"Cefa"
-        },
-        "timeSlot":"12:00",
-        "dosage":1
-    }
-  ],
-  "reminderRecord":{
-    "drug":{
-      "id":100,
-      "name_eng":"Doxycycline",
-      "name_man":"去氧氫四環素",
-      "stock":1,
-      "dosage":1
-    },
-    "timeSlot":"07:30",
-    "postpone":4,
-    "drugPosition":10
-  },
-  "takeConfirmation":{
-    "id":13,
-    "drug":{
-      "id":354,
-      "dosage":1
-    }
-  },
-  "singleRecord":[
-    {
-        "id":220,
-        "name_eng":"Acertil",
-        "name_man":"雅施達",
-        "indications":"血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。"
-    },
-    {
-        "id":119,
-        "name_eng":"Beclomethasone",
-        "nmae_man":"貝克每松",
-        "indications":"治療長期的氣喘"
-    }
-  ],
-  "newSingleRecord":{
-    "id":223,
-    "date":"2023/02/01",
-    "timeSlot":"07:30",
-    "dosage":1
-  },
-  "drugsRecords": [
-    {
-        "id":77,
-        "name":"Acertil",
-        "hospitalDepartment":"心臟內科",
-        "hospitalName":"臺北榮民總醫院",
-        "demand":1,
-        "indications":"血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
-        "dosage":1,
-        "timeSlot":"08:00:00"
-    },
-    {
-        "id":124,
-        "name":"Aleapam",
-        "hospitalDepartment":"精神內科",
-        "hospitalName":"臺北榮民總醫院",
-        "demand":0,
-        "frequency":{
-            "type":1,
-            "times":2
-        },
-        "timeSlot":[
-            "08:00:00",
-            "12:00:00"
-        ],
-        "indications":"精神安定劑",
-        "dosage":1
-    },
-    {
-        "id":89,
-        "name":"Doxycline",
-        "hospitalDepartment":"家庭內科",
-        "hospitalName":"臺北市立聯合醫院",
-        "demand":0,
-        "frequency":{
-            "type":1,
-            "times":2
-        },
-        "timeSlot":[
-            "07:30:00",
-            "11:30:00"
-        ],
-        "indications":"消炎藥",
-        "dosage":1
-    }
-  ],
-  "drugInformation":{
+  "drugRecords":{
     "id":77,
     "name_eng":"Acertil",
     "name_man":"雅施達",
     "hospitalDepartment":"心臟內科",
     "hospitalName":"臺北榮民總醫院",
-    "demand":1,
+    "onDemand":1,
     "appearance":"淡綠色桿狀膜衣錠，一面刻有兩個三角形及一個圓圈，雙邊緣有刻痕。",
     "indications":"血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
     "sideEffect":"咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉",
@@ -156,22 +29,14 @@
         "volume":10,
         "remind":5,
         "repeat":0
+    },
+    "returnSetting":{
+        "status":1,
+        "date":"2023/02/20",
+        "left":10,
+        "repeat":2
     }
-  },
-  "imageIdentificationInformation":{
-    "id":77,
-    "name_eng":"Acertil",
-    "name_man":"雅施達",
-    "hospitalDepartment":"心臟內科",
-    "hospitalName":"臺北榮民總醫院",
-    "demand":1,
-    "appearance":"淡綠色桿狀膜衣錠，一面刻有兩個三角形及一個圓圈，雙邊緣有刻痕。",
-    "indications":"血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
-    "sideEffect":"咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉",
-    "dosage":1,
-    "timeInterval":"12小時",
-    "stock":20
-  },
+  }
   "historyRecord":[
     {
         "id":230,
@@ -184,7 +49,7 @@
                     "12:00:00"
                 ],
                 "check":[1,1],
-                "takenDosage":[1,1]
+                "dosage":[1,1]
             },
             {
                 "date":"2022/12/31",
@@ -193,7 +58,7 @@
                     "12:00:00"
                 ],
                 "check":[0,1],
-                "takenDosage":[0,1]
+                "dosage":[0,1]
             },
             {
                 "date":"2022/12/30",
@@ -202,7 +67,7 @@
                     "12:00:00"
                 ],
                 "check":[1,1],
-                "takenDosage":[1,1]
+                "dosage":[1,1]
             }
         ]
     },
@@ -216,7 +81,7 @@
                     "08:00:00"
                 ],
                 "check":[1],
-                "takenDosage":[1]
+                "dosage":[1]
             },
             {
                 "date":"2022/12/31",
@@ -224,7 +89,7 @@
                     "08:00:00"
                 ],
                 "check":[0],
-                "takenDosage":[0]
+                "dosage":[0]
             }
         ]
     },
@@ -239,7 +104,7 @@
                     "11:30:00"
                 ],
                 "check":[1,1],
-                "takenDosage":[1,1]
+                "dosage":[1,1]
             },
             {
                 "date":"2022/12/31",
@@ -248,7 +113,7 @@
                     "11:30:00"
                 ],
                 "check":[1,1],
-                "takenDosage":[1,1]
+                "dosage":[1,1]
             },
             {
                 "date":"2022/12/30",
@@ -257,7 +122,7 @@
                     "11:30:00"
                 ],
                 "check":[1,1],
-                "takenDosage":[1,1]
+                "dosage":[1,1]
             }
         ]
     }
