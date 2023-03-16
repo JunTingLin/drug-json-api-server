@@ -22,7 +22,7 @@
         }
     ],
     "dosage":1,
-    "timeInterval":"12小時",
+    "freqency":1,
     "stock":20,
     "notificationSetting":{
         "status":0,
@@ -37,6 +37,21 @@
         "repeat":2
     }
   },
+  "drugInformation":{
+    "id":77,
+    "name_eng":"Acertil",
+    "name_man":"雅施達",
+    "hospitalDepartment":"心臟內科",
+    "hospitalName":"臺北榮民總醫院",
+    "onDemand":1,
+    "appearance":"淡綠色桿狀膜衣錠，一面刻有兩個三角形及一個圓圈，雙邊緣有刻痕。",
+    "indications":"血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
+    "sideEffect":"咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉",
+    "timings":1,
+    "frequency":1,
+    "dosage":1,
+    "stock":20
+  }
   "historyRecord":[
     {
         "id":230,
