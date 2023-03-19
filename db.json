@@ -1,144 +1,311 @@
 {
-  "drugRecords":{
-    "id":77,
-    "name_eng":"Acertil",
-    "name_man":"雅施達",
-    "hospitalDepartment":"心臟內科",
-    "hospitalName":"臺北榮民總醫院",
-    "onDemand":1,
-    "appearance":"淡綠色桿狀膜衣錠，一面刻有兩個三角形及一個圓圈，雙邊緣有刻痕。",
-    "indications":"血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
-    "sideEffect":"咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉",
-    "interaction":[
+  "drugRecords": [
+    {
+      "id": 125,
+      "name_eng": "Alepan",
+      "name_man": "安立平錠",
+      "hospitalDepartment": "精神科",
+      "hospitalName": "臺北榮民總醫院",
+      "onDemand": 0,
+      "appearance": "米黃,圓扁形,一字刻痕,錠劑。",
+      "indications": "器質性疾病或情緒壓力引起的焦慮。精神安定劑、酒精戒斷症狀。",
+      "sideEffect": "鎮靜、倦怠、憂鬱、頭暈、運動不能、健忘、唾液過度分泌、口乾、昏眩、激動、神經質。",
+      "interaction": [],
+      "dosage": 1,
+      "stock": 28,
+      "frequency": [
+        1,
+        3
+      ],
+      "timeSlot": [
+        "08:00:00",
+        "12:30:00",
+        "18:30:00"
+      ],
+      "timings": 1,
+      "notificationSetting": {
+        "status": 0,
+        "startDate": "2022/12/31",
+        "remind": 5,
+        "repeat": 0
+      },
+      "returnSetting": {
+        "status": 1,
+        "date": "2023/02/20",
+        "left": 10,
+        "repeat": 2
+      }
+    },
+    {
+      "id": 77,
+      "name_eng": "Acertil",
+      "name_man": "雅施達",
+      "hospitalDepartment": "心臟內科",
+      "hospitalName": "臺北榮民總醫院",
+      "onDemand": 1,
+      "appearance": "淡綠色桿狀膜衣錠，一面刻有兩個三角形及一個圓圈，雙邊緣有刻痕。",
+      "indications": "血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
+      "sideEffect": "咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉",
+      "interaction": [
         {
-            "id":35,
-            "name":"Doxycyline",
-            "cause": "互相影響療效或增加副作用的嚴重度"
+          "id": 20,
+          "name": "Doxycyline",
+          "cause": "互相影響療效或增加副作用的嚴重度"
         },
         {
-            "id":54,
-            "name":"Midamor",
-            "cause": "互相影響療效或增加副作用的嚴重度"
+          "id": 54,
+          "name": "Midamor",
+          "cause": "互相影響療效或增加副作用的嚴重度"
         }
-    ],
-    "dosage":1,
-    "timeInterval":"12小時",
-    "stock":20,
-    "notificationSetting":{
-        "status":0,
-        "volume":10,
-        "remind":5,
-        "repeat":0
-    },
-    "returnSetting":{
-        "status":1,
-        "date":"2023/02/20",
-        "left":10,
-        "repeat":2
-    }
-  },
-  "historyRecord":[
-    {
-        "id":230,
-        "name":"Aleapam",
-        "record":[
-            {
-                "date":"2023/01/01",
-                "timeSlot":[
-                    "08:00:00",
-                    "12:00:00"
-                ],
-                "check":[1,1],
-                "dosage":[1,1]
-            },
-            {
-                "date":"2022/12/31",
-                "timeSlot":[
-                    "08:00:00",
-                    "12:00:00"
-                ],
-                "check":[0,1],
-                "dosage":[0,1]
-            },
-            {
-                "date":"2022/12/30",
-                "timeSlot":[
-                    "08:00:00",
-                    "12:00:00"
-                ],
-                "check":[1,1],
-                "dosage":[1,1]
-            }
-        ]
+      ],
+      "dosage": 1,
+      "stock": 20,
+      "notificationSetting": {
+        "status": 0,
+        "startDate": "2022/12/31",
+        "remind": 5,
+        "repeat": 0
+      },
+      "returnSetting": {
+        "status": 1,
+        "date": "2023/02/20",
+        "left": 10,
+        "repeat": 2
+      }
     },
     {
-        "id":88,
-        "name":"Acertil",
-        "record":[
-            {
-                "date":"2023/01/01",
-                "timeSlot":[
-                    "08:00:00"
-                ],
-                "check":[1],
-                "dosage":[1]
-            },
-            {
-                "date":"2022/12/31",
-                "timeSlot":[
-                    "08:00:00"
-                ],
-                "check":[0],
-                "dosage":[0]
-            }
-        ]
-    },
-    {
-        "id":56,
-        "name":"Doxycycline",
-        "record":[
-            {
-                "date":"2023/01/01",
-                "timeSlot":[
-                    "07:30:00",
-                    "11:30:00"
-                ],
-                "check":[1,1],
-                "dosage":[1,1]
-            },
-            {
-                "date":"2022/12/31",
-                "timeSlot":[
-                    "07:30:00",
-                    "11:30:00"
-                ],
-                "check":[1,1],
-                "dosage":[1,1]
-            },
-            {
-                "date":"2022/12/30",
-                "timeSlot":[
-                    "07:30:00",
-                    "11:30:00"
-                ],
-                "check":[1,1],
-                "dosage":[1,1]
-            }
-        ]
+      "id": 20,
+      "name_eng": "Doxycycline",
+      "name_man": "去氧羥四環素",
+      "hospitalDepartment": "家庭內科",
+      "hospitalName": "臺北市立聯合醫院",
+      "onDemand": 0,
+      "appearance": "深色膠囊。",
+      "indications": "治療多種細菌感染，其中主要包括痤瘡(Acne，又稱青春痘)、玫瑰斑(Rosacea)預防瘧疾(Malaria)。去氧羥四環素只能治療細菌感染，無法用於感冒、流感等病毒性感染",
+      "sideEffect": "劇烈頭痛(Severe headache)、頭暈(Dizziness)、視線模糊(Blurred vision)、發燒、發冷、身體疼痛、流感症狀、腺體腫脹、起疹子(Rash)或發癢、關節痛。",
+      "interaction": [
+        {
+          "id": 77,
+          "name": "Acertil",
+          "cause": "互相影響療效或增加副作用的嚴重度"
+        },
+        {
+          "id": 90,
+          "name": "Rifampin",
+          "cause": "可能會增加特定副作用的危險。"
+        }
+      ],
+      "dosage": 1,
+      "stock": 28,
+      "frequency": [
+        1,
+        2
+      ],
+      "timeSlot": [
+        "07:30:00",
+        "11:30:00"
+      ],
+      "timings": 1,
+      "notificationSetting": {
+        "status": 1,
+        "startDate": "2022/12/31",
+        "remind": 5,
+        "repeat": 0
+      },
+      "returnSetting": {
+        "status": 1,
+        "date": "2023/02/20",
+        "left": 10,
+        "repeat": 2
+      }
     }
   ],
-  "drugsInteraction":{
-    "id":19,
-    "drugs":[
+  "drugInformation": {
+    "id": 77,
+    "name_eng": "Acertil",
+    "name_man": "雅施達",
+    "hospitalDepartment": "心臟內科",
+    "hospitalName": "臺北榮民總醫院",
+    "onDemand": 1,
+    "appearance": "淡綠色桿狀膜衣錠，一面刻有兩個三角形及一個圓圈，雙邊緣有刻痕。",
+    "indications": "血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
+    "sideEffect": "咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉",
+    "dosage": 1,
+    "stock": 20
+  },
+  "historyRecord": [
+    {
+      "id": 125,
+      "name": "Alepan",
+      "record": [
         {
-            "id":190,
-            "name":"Amiodarone"
+          "date": "2023/01/01",
+          "timeSlot": [
+            "08:00:00",
+            "12:30:00",
+            "18:30:00"
+          ],
+          "check": [
+            1,
+            1,
+            0
+          ],
+          "dosage": [
+            1,
+            1,
+            0
+          ]
         },
         {
-            "id":77,
-            "name":"Digoxin"
+          "date": "2022/12/31",
+          "timeSlot": [
+            "08:00:00",
+            "12:30:00",
+            "18:30:00"
+          ],
+          "check": [
+            0,
+            1,
+            1
+          ],
+          "dosage": [
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "date": "2022/12/30",
+          "timeSlot": [
+            "08:00:00",
+            "12:30:00",
+            "18:30:00"
+          ],
+          "check": [
+            1,
+            1,
+            1
+          ],
+          "dosage": [
+            1,
+            1,
+            1
+          ]
         }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Acertil",
+      "record": [
+        {
+          "date": "2023/01/01",
+          "timeSlot": [
+            "08:00:00"
+          ],
+          "check": [
+            1
+          ],
+          "dosage": [
+            1
+          ]
+        },
+        {
+          "date": "2022/12/31",
+          "timeSlot": [
+            "08:00:00"
+          ],
+          "check": [
+            0
+          ],
+          "dosage": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Doxycycline",
+      "record": [
+        {
+          "date": "2023/01/01",
+          "timeSlot": [
+            "07:30:00",
+            "11:30:00"
+          ],
+          "check": [
+            1,
+            1
+          ],
+          "dosage": [
+            1,
+            1
+          ]
+        },
+        {
+          "date": "2022/12/31",
+          "timeSlot": [
+            "07:30:00",
+            "11:30:00"
+          ],
+          "check": [
+            1,
+            1
+          ],
+          "dosage": [
+            1,
+            1
+          ]
+        },
+        {
+          "date": "2022/12/30",
+          "timeSlot": [
+            "07:30:00",
+            "11:30:00"
+          ],
+          "check": [
+            1,
+            1
+          ],
+          "dosage": [
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  ],
+  "drugsInteraction": {
+    "id": 19,
+    "drugs": [
+      {
+        "id": 190,
+        "name": "Amiodarone"
+      },
+      {
+        "id": 77,
+        "name": "Digoxin"
+      }
     ],
-    "cause":"這種組合可能會導致血液中digoxin濃度升高。如果您開始服用amiodarone，應仔細檢查digoxin於血液中的濃度。如果您出現噁心、食慾下降、視力障礙、脈搏緩慢或心律不齊等地高辛水平升高的症狀"
-  }
+    "cause": "這種組合可能會導致血液中digoxin濃度升高。如果您開始服用amiodarone，應仔細檢查digoxin於血液中的濃度。如果您出現噁心、食慾下降、視力障礙、脈搏緩慢或心律不齊等地高辛水平升高的症狀"
+  },
+  "drugPosition": [
+    {
+      "id": 77,
+      "position": 2
+    },
+    {
+      "id": 20,
+      "position": 5
+    },
+    {
+      "id": 125,
+      "position": 9
+    },
+    {
+      "id": 34,
+      "position": 4
+    }
+  ]
 }
