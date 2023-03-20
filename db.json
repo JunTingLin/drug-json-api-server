@@ -2,8 +2,7 @@
   "drugRecords": [
     {
       "id": 125,
-      "name_eng": "Alepan",
-      "name_man": "安立平錠",
+      "name": "Alepan",
       "hospitalDepartment": "精神科",
       "hospitalName": "臺北榮民總醫院",
       "onDemand": 0,
@@ -38,8 +37,7 @@
     },
     {
       "id": 77,
-      "name_eng": "Acertil",
-      "name_man": "雅施達",
+      "name": "Acertil",
       "hospitalDepartment": "心臟內科",
       "hospitalName": "臺北榮民總醫院",
       "onDemand": 1,
@@ -75,8 +73,7 @@
     },
     {
       "id": 20,
-      "name_eng": "Doxycycline",
-      "name_man": "去氧羥四環素",
+      "name": "Doxycycline",
       "hospitalDepartment": "家庭內科",
       "hospitalName": "臺北市立聯合醫院",
       "onDemand": 0,
@@ -120,10 +117,9 @@
       }
     }
   ],
-  "drugInformation": {
+  "drugBagInformation": {
     "id": 77,
-    "name_eng": "Acertil",
-    "name_man": "雅施達",
+    "name": "Acertil",
     "hospitalDepartment": "心臟內科",
     "hospitalName": "臺北榮民總醫院",
     "onDemand": 1,
@@ -132,180 +128,5 @@
     "sideEffect": "咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉",
     "dosage": 1,
     "stock": 20
-  },
-  "historyRecord": [
-    {
-      "id": 125,
-      "name": "Alepan",
-      "record": [
-        {
-          "date": "2023/01/01",
-          "timeSlot": [
-            "08:00:00",
-            "12:30:00",
-            "18:30:00"
-          ],
-          "check": [
-            1,
-            1,
-            0
-          ],
-          "dosage": [
-            1,
-            1,
-            0
-          ]
-        },
-        {
-          "date": "2022/12/31",
-          "timeSlot": [
-            "08:00:00",
-            "12:30:00",
-            "18:30:00"
-          ],
-          "check": [
-            0,
-            1,
-            1
-          ],
-          "dosage": [
-            0,
-            1,
-            1
-          ]
-        },
-        {
-          "date": "2022/12/30",
-          "timeSlot": [
-            "08:00:00",
-            "12:30:00",
-            "18:30:00"
-          ],
-          "check": [
-            1,
-            1,
-            1
-          ],
-          "dosage": [
-            1,
-            1,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "id": 77,
-      "name": "Acertil",
-      "record": [
-        {
-          "date": "2023/01/01",
-          "timeSlot": [
-            "08:00:00"
-          ],
-          "check": [
-            1
-          ],
-          "dosage": [
-            1
-          ]
-        },
-        {
-          "date": "2022/12/31",
-          "timeSlot": [
-            "08:00:00"
-          ],
-          "check": [
-            0
-          ],
-          "dosage": [
-            0
-          ]
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "name": "Doxycycline",
-      "record": [
-        {
-          "date": "2023/01/01",
-          "timeSlot": [
-            "07:30:00",
-            "11:30:00"
-          ],
-          "check": [
-            1,
-            1
-          ],
-          "dosage": [
-            1,
-            1
-          ]
-        },
-        {
-          "date": "2022/12/31",
-          "timeSlot": [
-            "07:30:00",
-            "11:30:00"
-          ],
-          "check": [
-            1,
-            1
-          ],
-          "dosage": [
-            1,
-            1
-          ]
-        },
-        {
-          "date": "2022/12/30",
-          "timeSlot": [
-            "07:30:00",
-            "11:30:00"
-          ],
-          "check": [
-            1,
-            1
-          ],
-          "dosage": [
-            1,
-            1
-          ]
-        }
-      ]
-    }
-  ],
-  "drugsInteraction": {
-    "id": 19,
-    "drugs": [
-      {
-        "id": 190,
-        "name": "Amiodarone"
-      },
-      {
-        "id": 77,
-        "name": "Digoxin"
-      }
-    ],
-    "cause": "這種組合可能會導致血液中digoxin濃度升高。如果您開始服用amiodarone，應仔細檢查digoxin於血液中的濃度。如果您出現噁心、食慾下降、視力障礙、脈搏緩慢或心律不齊等地高辛水平升高的症狀"
-  },
-  "drugPosition": [
-    {
-      "id": 77,
-      "position": 2
-    },
-    {
-      "id": 20,
-      "position": 5
-    },
-    {
-      "id": 125,
-      "position": 9
-    },
-    {
-      "id": 34,
-      "position": 4
-    }
-  ]
+  }
 }
