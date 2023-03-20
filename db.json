@@ -1,5 +1,5 @@
 {
-  "drugRecords": [
+"drugRecords": [
     {
       "id":20,
       "hospitalDepartment": "精神科",
@@ -15,7 +15,7 @@
       "interaction": [],
       "dosage": 1,
       "stock": 28,
-      "position":[0][2],
+      "position":[0,2],
       "frequency": 3,
       "timeSlot": [
         "08:00:00",
@@ -57,14 +57,14 @@
         },
         {
           "id": 54,
-          "degree":"Major"
+          "degree":"Major",
           "name": "Midamor",
           "cause": "互相影響療效或增加副作用的嚴重度"
         }
       ],
       "dosage": 1,
       "stock": 20,
-      "position":[1][1],
+      "position":[1,1],
       "frequency": " ",
       "timeSlot": [],
       "timings": "",
@@ -96,20 +96,20 @@
       "interaction": [
         {
           "id": 77,
-          "degree":"Major"
+          "degree":"Major",
           "name": "Acertil",
           "cause": "互相影響療效或增加副作用的嚴重度"
         },
         {
           "id": 90,
-          "degree":"Minor"
+          "degree":"Minor",
           "name": "Rifampin",
           "cause": "可能會增加特定副作用的危險。"
         }
       ],
       "dosage": 1,
       "stock": 28,
-      "position":[3][3]
+      "position":[3,3],
       "frequency": 2,
       "timeSlot": [
         "07:30:00",
@@ -158,7 +158,8 @@
       "stock": 20,
       "frequency":2,
       "timings":1
-    },
+    }
   ],
   "drugInteraction":[]
+ 
 }
