@@ -132,28 +132,34 @@
       ],
       "drugBagInformation":[
         {
-          "id": 77,
-          "name": "Acertil",
+          "id":34,
           "hospitalDepartment": "心臟內科",
           "hospitalName": "臺北榮民總醫院",
           "onDemand": 1,
-          "appearance": "淡綠色桿狀膜衣錠，一面刻有兩個三角形及一個圓圈，雙邊緣有刻痕。",
-          "indications": "血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
-          "sideEffect": "咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉",
+          "drug":{
+              "id": 77,
+              "name": "Acertil",
+              "appearance": "淡綠色桿狀膜衣錠，一面刻有兩個三角形及一個圓圈，雙邊緣有刻痕。",
+              "indications": "血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
+              "sideEffect": "咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉"
+          },
           "dosage": 1,
           "stock": 20,
           "frequency":"",
           "timings":""
         },
         {
-          "id": 20,
-          "name": "Doxycycline",
+          "id":10,
           "hospitalDepartment": "家庭內科",
           "hospitalName": "臺北市立聯合醫院",
           "onDemand": 1,
-          "appearance": "深色膠囊。",
-          "indications": "治療多種細菌感染，其中主要包括痤瘡(Acne，又稱青春痘)、玫瑰斑(Rosacea)預防瘧疾(Malaria)。去氧羥四環素只能治療細菌感染，無法用於感冒、流感等病毒性感染",
-          "sideEffect": "劇烈頭痛(Severe headache)、頭暈(Dizziness)、視線模糊(Blurred vision)、發燒、發冷、身體疼痛、流感症狀、腺體腫脹、起疹子(Rash)或發癢、關節痛。",
+          "drug":{
+              "id": 20,
+              "name": "Doxycycline",
+              "appearance": "深色膠囊。",
+              "indications": "治療多種細菌感染，其中主要包括痤瘡(Acne，又稱青春痘)、玫瑰斑(Rosacea)預防瘧疾(Malaria)。去氧羥四環素只能治療細菌感染，無法用於感冒、流感等病毒性感染",
+              "sideEffect": "劇烈頭痛(Severe headache)、頭暈(Dizziness)、視線模糊(Blurred vision)、發燒、發冷、身體疼痛、流感症狀、腺體腫脹、起疹子(Rash)或發癢、關節痛。"
+          },
           "dosage": 1,
           "stock": 20,
           "frequency":2,
