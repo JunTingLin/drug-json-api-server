@@ -168,6 +168,7 @@
       ],
       "drugsInteraction": {
         "id": 19,
+        "degree":"Major"
         "drugs": [
           {
             "id": 190,
