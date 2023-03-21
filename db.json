@@ -11,7 +11,7 @@
             "indications": "器質性疾病或情緒壓力引起的焦慮。精神安定劑、酒精戒斷症狀。",
             "sideEffect": "鎮靜、倦怠、憂鬱、頭暈、運動不能、健忘、唾液過度分泌、口乾、昏眩、激動、神經質。"
           },
-          "onDemand": 0,
+          "onDemand": false,
           "interaction": [],
           "dosage": 1,
           "stock": 28,
@@ -47,7 +47,7 @@
             "indications": "血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
             "sideEffect": "咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉"
           },
-          "onDemand": 1,
+          "onDemand": true,
           "interaction": [
             {
               "id": 20,
@@ -65,7 +65,7 @@
           "dosage": 1,
           "stock": 20,
           "position":[1,1],
-          "frequency": " ",
+          "frequency": 0,
           "timeSlot": [],
           "timings": "",
           "notificationSetting": {
