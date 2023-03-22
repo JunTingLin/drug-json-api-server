@@ -18,9 +18,9 @@
           "position":[0,2],
           "frequency": 3,
           "timeSlot": [
-            "08:00:00",
-            "12:30:00",
-            "18:30:00"
+            "08:00",
+            "12:30",
+            "18:30"
           ],
           "timings": 1,
           "notificationSetting": {
@@ -112,8 +112,8 @@
           "position":[3,3],
           "frequency": 2,
           "timeSlot": [
-            "07:30:00",
-            "11:30:00"
+            "07:30",
+            "11:30"
           ],
           "timings": 1,
           "notificationSetting": {
