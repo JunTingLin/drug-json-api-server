@@ -24,13 +24,13 @@
           ],
           "timings": 1,
           "notificationSetting": {
-            "status": 0,
+            "status": false,
             "startDate": "2022/12/31",
             "remind": 5,
             "repeat": 0
           },
           "returnSetting": {
-            "status": 1,
+            "status": true,
             "date": "2023/02/20",
             "left": 10,
             "repeat": 2
@@ -69,13 +69,13 @@
           "timeSlot": [],
           "timings": "",
           "notificationSetting": {
-            "status": 0,
+            "status": false,
             "startDate": "2022/12/31",
             "remind": 5,
             "repeat": 0
           },
           "returnSetting": {
-            "status": 1,
+            "status": true,
             "date": "2023/02/20",
             "left": 10,
             "repeat": 2
@@ -117,13 +117,13 @@
           ],
           "timings": 1,
           "notificationSetting": {
-            "status": 1,
+            "status": true,
             "startDate": "2022/12/31",
             "remind": 5,
             "repeat": 0
           },
           "returnSetting": {
-            "status": 1,
+            "status": true,
             "date": "2023/02/20",
             "left": 10,
             "repeat": 2
