@@ -14,7 +14,7 @@
           "onDemand": false,
           "interaction": [],
           "dosage": 1,
-          "stock": 28,
+          "stock": 0,
           "position":[0,2],
           "frequency": 3,
           "timeSlot": [
