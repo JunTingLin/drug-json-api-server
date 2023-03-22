@@ -135,7 +135,7 @@
           "id":34,
           "hospitalDepartment": "心臟內科",
           "hospitalName": "臺北榮民總醫院",
-          "onDemand": 1,
+          "onDemand": true,
           "drug":{
               "id": 77,
               "name": "Acertil",
@@ -152,7 +152,7 @@
           "id":10,
           "hospitalDepartment": "家庭內科",
           "hospitalName": "臺北市立聯合醫院",
-          "onDemand": 1,
+          "onDemand": true,
           "drug":{
               "id": 20,
               "name": "Doxycycline",
