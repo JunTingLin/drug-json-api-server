@@ -12,10 +12,10 @@
             "sideEffect": "鎮靜、倦怠、憂鬱、頭暈、運動不能、健忘、唾液過度分泌、口乾、昏眩、激動、神經質。"
           },
           "onDemand": false,
-          "interaction": [],
+          "interactingDrugs": [],
           "dosage": 1,
           "stock": 0,
-          "position":[0,2],
+          "position":9,
           "frequency": 3,
           "timeSlot": [
             "08:00",
@@ -49,7 +49,7 @@
             "sideEffect": "咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉"
           },
           "onDemand": true,
-          "interaction": [
+          "interactingDrugs": [
             {
               "id": 20,
               "degree":"Major",
@@ -65,7 +65,8 @@
           ],
           "dosage": 1,
           "stock": 20,
-          "position":[1,1],
+          "position":2,
+          "//_comment": "0:按需，不然空著不填會null很麻煩",
           "frequency": 0,
           "timeSlot": [],
           "timings": [],
@@ -94,7 +95,7 @@
             "sideEffect": "劇烈頭痛(Severe headache)、頭暈(Dizziness)、視線模糊(Blurred vision)、發燒、發冷、身體疼痛、流感症狀、腺體腫脹、起疹子(Rash)或發癢、關節痛。"
           },
           "onDemand": false,
-          "interaction": [
+          "interactingDrugs": [
             {
               "id": 77,
               "degree":"Major",
@@ -110,7 +111,7 @@
           ],
           "dosage": 1,
           "stock": 28,
-          "position":[3,3],
+          "position":5,
           "frequency": 2,
           "timeSlot": [
             "07:30",
@@ -146,8 +147,8 @@
           },
           "dosage": 1,
           "stock": 20,
-          "frequency":"",
-          "timings":""
+          "frequency": 0,
+          "timings":[]
         },
         {
           "id":10,
@@ -164,7 +165,7 @@
           "dosage": 1,
           "stock": 20,
           "frequency":2,
-          "timings":1
+          "timings":[1]
         }
       ],
       "drugsInteraction": {
@@ -194,10 +195,6 @@
         {
           "id": 125,
           "position": 9
-        },
-        {
-          "id": 34,
-          "position": 4
         }
       ]
 }
