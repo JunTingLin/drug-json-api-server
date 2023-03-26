@@ -170,7 +170,7 @@
       ],
       "drugsInteraction": {
         "id": 19,
-        "degree":"Major",
+        "level":"Major",
         "drugs": [
           {
             "id": 190,
