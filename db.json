@@ -154,7 +154,7 @@
           "id":10,
           "hospitalDepartment": "家庭內科",
           "hospitalName": "臺北市立聯合醫院",
-          "onDemand": true,
+          "onDemand": false,
           "drug":{
               "id": 20,
               "name": "Doxycycline",
