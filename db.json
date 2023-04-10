@@ -17,7 +17,7 @@
       "stock": 0,
       "position": 9,
       "frequency": 3,
-      "timeSlot": [
+      "timeSlots": [
         "08:00",
         "12:30",
         "18:30"
@@ -71,7 +71,7 @@
       "position": 2,
       "//_comment": "0:按需，不然空著不填會null很麻煩",
       "frequency": 0,
-      "timeSlot": [],
+      "timeSlots": [],
       "timings": [],
       "notificationSetting": {
         "status": false,
@@ -116,7 +116,7 @@
       "stock": 28,
       "position": 5,
       "frequency": 2,
-      "timeSlot": [
+      "timeSlots": [
         "07:30",
         "11:30"
       ],
