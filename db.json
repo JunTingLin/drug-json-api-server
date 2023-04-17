@@ -200,5 +200,52 @@
       "id": 125,
       "position": 9
     }
+  ],
+  "todayReminder": [
+    {
+      "id": 56,
+      "drug": {
+        "id": 20,
+        "name": "Doxycycline"
+      },
+      "timeSlot": "07:30",
+      "dosage":  1
+    },
+    {
+      "id": 56,
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "timeSlot": "08:00",
+      "dosage":  1
+    },
+    {
+      "id": 56,
+      "drug": {
+        "id": 20,
+        "name": "Doxycycline"
+      },
+      "timeSlot": "11:30",
+      "dosage":  1
+    },
+    {
+      "id": 56,
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "timeSlot": "12:30",
+      "dosage":  1
+    },
+    {
+      "id": 56,
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "timeSlot": "18:30",
+      "dosage":  1
+    }
   ]
 }
