@@ -57,13 +57,15 @@
           "id": 20,
           "degree": "Major",
           "name": "Doxycyline",
-          "cause": "互相影響療效或增加副作用的嚴重度"
+          "cause": "互相影響療效或增加副作用的嚴重度",
+          "timeSlots": ["07:30","11:30"]
         },
         {
           "id": 54,
           "degree": "Major",
           "name": "Midamor",
-          "cause": "互相影響療效或增加副作用的嚴重度"
+          "cause": "互相影響療效或增加副作用的嚴重度",
+          "timeSlots": ["14:30"]
         }
       ],
       "dosage": 1,
@@ -103,13 +105,15 @@
           "id": 77,
           "degree": "Major",
           "name": "Acertil",
-          "cause": "互相影響療效或增加副作用的嚴重度"
+          "cause": "互相影響療效或增加副作用的嚴重度",
+          "timeSlots": []
         },
         {
           "id": 90,
           "degree": "Minor",
           "name": "Rifampin",
-          "cause": "可能會增加特定副作用的危險。"
+          "cause": "可能會增加特定副作用的危險。",
+          "timeSlots": ["07:00","15:30"]
         }
       ],
       "dosage": 1,
