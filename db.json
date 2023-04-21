@@ -181,12 +181,14 @@
   ],
   "interactingDrugs": [
     {
+      "id": 77,
       "degree": "Major",
       "name": "Acertil",
       "cause": "互相影響療效或增加副作用的嚴重度",
       "timeSlots": [ ]
     },
     {
+      "id": 90,
       "degree": "Minor",
       "name": "Rifampin",
       "cause": "可能會增加特定副作用的危險。",
