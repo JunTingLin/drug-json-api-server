@@ -1,5 +1,9 @@
 # drug-json-api-server
 
+## 更新
+github上最多僅能存放5支api，後來自己架到Heroku
+https://drug-json-api-server.herokuapp.com/
+
 ## 不可更動之假資料(模擬回應正常，但資料不更新)
 
 https://my-json-server.typicode.com/JunTingLin/drug-json-api-server
