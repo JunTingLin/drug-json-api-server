@@ -58,14 +58,19 @@
           "degree": "Major",
           "name": "Doxycyline",
           "cause": "互相影響療效或增加副作用的嚴重度",
-          "timeSlots": ["07:30","11:30"]
+          "timeSlots": [
+            "07:30",
+            "11:30"
+          ]
         },
         {
           "id": 54,
           "degree": "Major",
           "name": "Midamor",
           "cause": "互相影響療效或增加副作用的嚴重度",
-          "timeSlots": ["14:30"]
+          "timeSlots": [
+            "14:30"
+          ]
         }
       ],
       "dosage": 1,
@@ -113,7 +118,10 @@
           "degree": "Minor",
           "name": "Rifampin",
           "cause": "可能會增加特定副作用的危險。",
-          "timeSlots": ["07:00","15:30"]
+          "timeSlots": [
+            "07:00",
+            "15:30"
+          ]
         }
       ],
       "dosage": 1,
@@ -185,14 +193,17 @@
       "degree": "Major",
       "name": "Acertil",
       "cause": "互相影響療效或增加副作用的嚴重度",
-      "timeSlots": [ ]
+      "timeSlots": []
     },
     {
       "id": 90,
       "degree": "Minor",
       "name": "Rifampin",
       "cause": "可能會增加特定副作用的危險。",
-      "timeSlots": ["07:30", "11:30" ]
+      "timeSlots": [
+        "07:30",
+        "11:30"
+      ]
     }
   ],
   "drugPosition": [
@@ -217,7 +228,7 @@
         "name": "Doxycycline"
       },
       "timeSlot": "07:30",
-      "dosage":  1
+      "dosage": 1
     },
     {
       "id": 56,
@@ -226,7 +237,7 @@
         "name": "Alepan"
       },
       "timeSlot": "08:00",
-      "dosage":  1
+      "dosage": 1
     },
     {
       "id": 56,
@@ -235,7 +246,7 @@
         "name": "Doxycycline"
       },
       "timeSlot": "11:30",
-      "dosage":  1
+      "dosage": 1
     },
     {
       "id": 56,
@@ -244,7 +255,7 @@
         "name": "Alepan"
       },
       "timeSlot": "12:30",
-      "dosage":  1
+      "dosage": 1
     },
     {
       "id": 56,
@@ -253,7 +264,23 @@
         "name": "Alepan"
       },
       "timeSlot": "18:30",
-      "dosage":  1
+      "dosage": 1
+    }
+  ],
+  "hospitals": [
+    {
+      "name": "臺北榮民總醫院"
+    },
+    {
+      "name": "臺北市立聯合醫院"
+    }
+  ],
+  "hospitalDepartments": [
+    {
+      "name": "心臟內科"
+    },
+    {
+      "name": "家庭內科"
     }
   ]
 }
