@@ -2,6 +2,7 @@
 
 ## 更新
 github上最多僅能存放5支api，後來自己架到Heroku
+
 https://drug-json-api-server.herokuapp.com/
 
 ## 不可更動之假資料(模擬回應正常，但資料不更新)
@@ -31,10 +32,11 @@ npm下載，其實也非常方便(需裝好Node.js)
 `npm install -save json-server`
 (-g 是global)
 
-`json:server": "json-server --watch db.json`
+`"json:server": "json-server --watch db.json"`
 
 ![image](https://user-images.githubusercontent.com/92431095/221579582-6260780a-a8ee-4de8-9a6b-194f2e77acea.png)
 
+`npm run json:server`
 
 repo: https://github.com/typicode/json-server
 
