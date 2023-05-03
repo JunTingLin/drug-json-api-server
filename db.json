@@ -282,5 +282,124 @@
     {
       "name": "家庭內科"
     }
+  ],
+  "takingRecordByDrug": [
+    {
+      "id":10,
+      "drug":{
+        "id": 125,
+        "name": "Alepan"
+      },
+      "record":[
+        {
+          "date":"週一 2023/01/01",
+          "time":"08:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週一 2023/01/01",
+          "time":"12:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週日 2022/12/31",
+          "time":"08:00",
+          "dosage": 1,
+          "check":0
+        },
+        {
+          "date":"週日 2022/12/31",
+          "time":"12:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週六 2022/12/30",
+          "time":"08:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週六 2022/12/30",
+          "time":"12:00",
+          "dosage": 1,
+          "check":1
+        }
+      ]
+    },
+    {
+      "id":34,
+      "drug":{
+        "id": 77,
+        "name": "Acertil"
+      },
+      "record":[
+        {
+          "date":"週一 2023/01/01",
+          "time":"08:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週日 2022/12/31",
+          "time":"08:00",
+          "dosage": 1,
+          "check":0
+        },
+        {
+          "date":"週六 2022/12/30",
+          "time":"08:00",
+          "dosage": 1,
+          "check":1
+        }
+      ]
+    },
+    {
+      "id":7,
+      "drug":{
+        "id": 20,
+        "name": "Doxycycline"
+      },
+      "record":[
+        {
+          "date":"週一 2023/01/01",
+          "time":"07:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週一 2023/01/01",
+          "time":"11:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週日 2022/12/31",
+          "time":"07:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週日 2022/12/31",
+          "time":"11:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週六 2022/12/30",
+          "time":"07:00",
+          "dosage": 1,
+          "check":1
+        },
+        {
+          "date":"週六 2022/12/30",
+          "time":"11:00",
+          "dosage": 1,
+          "check":1
+        }
+      ]
+    }
   ]
 }
