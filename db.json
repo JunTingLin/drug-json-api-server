@@ -290,42 +290,57 @@
         "id": 125,
         "name": "Alepan"
       },
-      "record":[
+      "recordList":[
         {
           "date":"週一 2023/01/01",
-          "time":"08:00",
-          "dosage": 1,
-          "status":1
-        },
-        {
-          "date":"週一 2023/01/01",
-          "time":"12:00",
-          "dosage": 1,
-          "status":2
+          "record":[
+            {
+              "timeSlot":"08:00",
+              "takingTime":"08:05",
+              "dosage": 1,
+              "status":1
+            },
+            {
+              "timeSlot":"12:00",
+              "takingTime":"",
+              "dosage": 1,
+              "status":2
+            }
+          ]
         },
         {
           "date":"週日 2022/12/31",
-          "time":"08:00",
-          "dosage": 1,
-          "status":0
-        },
-        {
-          "date":"週日 2022/12/31",
-          "time":"12:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"08:00",
+              "takingTime":"",
+              "dosage": 1,
+              "status":0
+            },
+            {
+              "timeSlot":"12:00",
+              "takingTime":"12:45",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         },
         {
           "date":"週六 2022/12/30",
-          "time":"08:00",
-          "dosage": 1,
-          "status":1
-        },
-        {
-          "date":"週六 2022/12/30",
-          "time":"12:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"08:00",
+              "takingTime":"08:02",
+              "dosage": 1,
+              "status":1
+            },
+            {
+              "timeSlot":"12:00",
+              "takingTime":"12:03",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         }
       ]
     },
@@ -335,24 +350,39 @@
         "id": 77,
         "name": "Acertil"
       },
-      "record":[
+      "recordList":[
         {
           "date":"週一 2023/01/01",
-          "time":"08:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"08:00",
+              "takingTime":"08:05",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         },
         {
           "date":"週日 2022/12/31",
-          "time":"08:00",
-          "dosage": 1,
-          "status":0
+          "record":[
+            {
+              "timeSlot":"08:00",
+              "takingTime":"",
+              "dosage": 1,
+              "status":0
+            }
+          ]
         },
         {
           "date":"週六 2022/12/30",
-          "time":"08:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"08:00",
+              "takingTime":"08:05",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         }
       ]
     },
@@ -362,90 +392,125 @@
         "id": 20,
         "name": "Doxycycline"
       },
-      "record":[
+      "recordList":[
         {
           "date":"週一 2023/01/01",
-          "time":"07:00",
-          "dosage": 1,
-          "status":1
-        },
-        {
-          "date":"週一 2023/01/01",
-          "time":"11:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"07:00",
+              "takingTime":"07:05",
+              "dosage": 1,
+              "status":1
+            },
+            {
+              "timeSlot":"11:00",
+              "takingTime":"11:03",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         },
         {
           "date":"週日 2022/12/31",
-          "time":"07:00",
-          "dosage": 1,
-          "status":1
-        },
-        {
-          "date":"週日 2022/12/31",
-          "time":"11:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"07:00",
+              "takingTime":"07:05",
+              "dosage": 1,
+              "status":1
+            },
+            {
+              "timeSlot":"11:00",
+              "takingTime":"11:10",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         },
         {
           "date":"週六 2022/12/30",
-          "time":"07:00",
-          "dosage": 1,
-          "status":1
-        },
-        {
-          "date":"週六 2022/12/30",
-          "time":"11:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"07:00",
+              "takingTime":"07:05",
+              "dosage": 1,
+              "status":1
+            },
+            {
+              "timeSlot":"11:00",
+              "takingTime":"11:10",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         },
         {
           "date":"週五 2022/12/29",
-          "time":"07:00",
-          "dosage": 1,
-          "status":1
-        },
-        {
-          "date":"週五 2022/12/29",
-          "time":"11:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"07:00",
+              "takingTime":"07:05",
+              "dosage": 1,
+              "status":1
+            },
+            {
+              "timeSlot":"11:00",
+              "takingTime":"11:10",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         },
         {
           "date":"週四 2022/12/28",
-          "time":"07:00",
-          "dosage": 1,
-          "status":1
-        },
-        {
-          "date":"週四 2022/12/28",
-          "time":"11:00",
-          "dosage": 1,
-          "status":0
+          "record":[
+            {
+              "timeSlot":"07:00",
+              "takingTime":"07:05",
+              "dosage": 1,
+              "status":1
+            },
+            {
+              "timeSlot":"11:00",
+              "takingTime":"",
+              "dosage": 1,
+              "status":0
+            }
+          ]
         },
         {
           "date":"週三 2022/12/27",
-          "time":"07:00",
-          "dosage": 1,
-          "status":2
-        },
-        {
-          "date":"週三 2022/12/27",
-          "time":"11:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"07:00",
+              "takingTime":"",
+              "dosage": 1,
+              "status":2
+            },
+            {
+              "timeSlot":"11:00",
+              "takingTime":"11:10",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         },
         {
           "date":"週二 2022/12/26",
-          "time":"07:00",
-          "dosage": 1,
-          "status":1
-        },
-        {
-          "date":"週二 2022/12/26",
-          "time":"11:00",
-          "dosage": 1,
-          "status":1
+          "record":[
+            {
+              "timeSlot":"07:00",
+              "takingTime":"07:05",
+              "dosage": 1,
+              "status":1
+            },
+            {
+              "timeSlot":"11:00",
+              "takingTime":"11:10",
+              "dosage": 1,
+              "status":1
+            }
+          ]
         }
       ]
     }
