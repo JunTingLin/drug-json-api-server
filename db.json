@@ -527,7 +527,9 @@
                             "id":7,
                             "name":"Doxycycline"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"07:05",
+                        "status":1
                     }
                 ]
             },
@@ -539,14 +541,18 @@
                             "id":125,
                             "name":"Alepan"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"08:05",
+                        "status":1
                     },
                     {
                         "drug":{
                             "id":77,
                             "name":"Acertil"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"08:05",
+                        "status":1
                     }
                 ]
             },
@@ -558,7 +564,9 @@
                             "id":7,
                             "name":"Doxycycline"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"11:03",
+                        "status":1
                     }
                 ]
             },
@@ -570,7 +578,9 @@
                             "id":125,
                             "name":"Alepan"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"",
+                        "status":2
                     }
                 ]
             }
@@ -587,7 +597,32 @@
                             "id":7,
                             "name":"Doxycycline"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"07:05",
+                        "status":1
+                    }
+                ]
+            },
+            {
+                "timeSlot":"08:00",
+                "drugsAtSameTime":[
+                    {
+                        "drug":{
+                            "id":125,
+                            "name":"Alepan"
+                        },
+                        "dosage":1,
+                        "takingTime":"",
+                        "status":0
+                    },
+                    {
+                        "drug":{
+                            "id":77,
+                            "name":"Acertil"
+                        },
+                        "dosage":1,
+                        "takingTime":"",
+                        "status":0
                     }
                 ]
             },
@@ -599,7 +634,9 @@
                             "id":7,
                             "name":"Doxycycline"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"11:10",
+                        "status":1
                     }
                 ]
             },
@@ -607,11 +644,13 @@
                 "timeSlot":"12:00",
                 "drugsAtSameTime":[
                     {
-                        "drug":{  
+                        "drug":{
                             "id":125,
                             "name":"Alepan"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"12:45",
+                        "status":1
                     }
                 ]
             }
@@ -628,7 +667,9 @@
                             "id":7,
                             "name":"Doxycycline"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"07:05",
+                        "status":1
                     }
                 ]
             },
@@ -640,14 +681,18 @@
                             "id":125,
                             "name":"Alepan"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"08:02",
+                        "status":1
                     },
                     {
                         "drug":{
                             "id":77,
                             "name":"Acertil"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"08:05",
+                        "status":1
                     }
                 ]
             },
@@ -659,7 +704,9 @@
                             "id":7,
                             "name":"Doxycycline"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"11:10",
+                        "status":1
                     }
                 ]
             },
@@ -671,7 +718,9 @@
                             "id":125,
                             "name":"Alepan"
                         },
-                        "dosage":1
+                        "dosage":1,
+                        "takingTime":"12:03",
+                        "status":1
                     }
                 ]
             }
