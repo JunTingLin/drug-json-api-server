@@ -295,14 +295,12 @@
           "date":"週一 2023/01/01",
           "record":[
             {
-              "timeSlot":"08:00",
-              "takingTime":"08:05",
+              "timeSlot":"08:05",
               "dosage": 1,
               "status":1
             },
             {
               "timeSlot":"12:00",
-              "takingTime":"",
               "dosage": 1,
               "status":2
             }
@@ -313,13 +311,11 @@
           "record":[
             {
               "timeSlot":"08:00",
-              "takingTime":"",
               "dosage": 1,
               "status":0
             },
             {
-              "timeSlot":"12:00",
-              "takingTime":"12:45",
+              "timeSlot":"12:45",
               "dosage": 1,
               "status":1
             }
@@ -329,14 +325,12 @@
           "date":"週六 2022/12/30",
           "record":[
             {
-              "timeSlot":"08:00",
-              "takingTime":"08:02",
+              "timeSlot":"08:02",
               "dosage": 1,
               "status":1
             },
             {
-              "timeSlot":"12:00",
-              "takingTime":"12:03",
+              "timeSlot":"12:03",
               "dosage": 1,
               "status":1
             }
@@ -355,8 +349,7 @@
           "date":"週一 2023/01/01",
           "record":[
             {
-              "timeSlot":"08:00",
-              "takingTime":"08:05",
+              "timeSlot":"08:05",
               "dosage": 1,
               "status":1
             }
@@ -367,7 +360,6 @@
           "record":[
             {
               "timeSlot":"08:00",
-              "takingTime":"",
               "dosage": 1,
               "status":0
             }
@@ -377,8 +369,7 @@
           "date":"週六 2022/12/30",
           "record":[
             {
-              "timeSlot":"08:00",
-              "takingTime":"08:05",
+              "timeSlot":"08:05",
               "dosage": 1,
               "status":1
             }
@@ -397,14 +388,12 @@
           "date":"週一 2023/01/01",
           "record":[
             {
-              "timeSlot":"07:00",
-              "takingTime":"07:05",
+              "timeSlot":"07:05",
               "dosage": 1,
               "status":1
             },
             {
-              "timeSlot":"11:00",
-              "takingTime":"11:03",
+              "timeSlot":"11:03",
               "dosage": 1,
               "status":1
             }
@@ -414,14 +403,12 @@
           "date":"週日 2022/12/31",
           "record":[
             {
-              "timeSlot":"07:00",
-              "takingTime":"07:05",
+              "timeSlot":"07:05",
               "dosage": 1,
               "status":1
             },
             {
-              "timeSlot":"11:00",
-              "takingTime":"11:10",
+              "timeSlot":"11:10",
               "dosage": 1,
               "status":1
             }
@@ -431,14 +418,12 @@
           "date":"週六 2022/12/30",
           "record":[
             {
-              "timeSlot":"07:00",
-              "takingTime":"07:05",
+              "timeSlot":"07:05",
               "dosage": 1,
               "status":1
             },
             {
-              "timeSlot":"11:00",
-              "takingTime":"11:10",
+              "timeSlot":"11:10",
               "dosage": 1,
               "status":1
             }
@@ -448,14 +433,12 @@
           "date":"週五 2022/12/29",
           "record":[
             {
-              "timeSlot":"07:00",
-              "takingTime":"07:05",
+              "timeSlot":"07:05",
               "dosage": 1,
               "status":1
             },
             {
-              "timeSlot":"11:00",
-              "takingTime":"11:10",
+              "timeSlot":"11:10",
               "dosage": 1,
               "status":1
             }
@@ -465,14 +448,12 @@
           "date":"週四 2022/12/28",
           "record":[
             {
-              "timeSlot":"07:00",
-              "takingTime":"07:05",
+              "timeSlot":"07:05",
               "dosage": 1,
               "status":1
             },
             {
               "timeSlot":"11:00",
-              "takingTime":"",
               "dosage": 1,
               "status":0
             }
@@ -483,13 +464,11 @@
           "record":[
             {
               "timeSlot":"07:00",
-              "takingTime":"",
               "dosage": 1,
               "status":2
             },
             {
-              "timeSlot":"11:00",
-              "takingTime":"11:10",
+              "timeSlot":"11:10",
               "dosage": 1,
               "status":1
             }
@@ -499,14 +478,12 @@
           "date":"週二 2022/12/26",
           "record":[
             {
-              "timeSlot":"07:00",
-              "takingTime":"07:05",
+              "timeSlot":"07:05",
               "dosage": 1,
               "status":1
             },
             {
-              "timeSlot":"11:00",
-              "takingTime":"11:10",
+              "timeSlot":"11:10",
               "dosage": 1,
               "status":1
             }
@@ -520,7 +497,6 @@
         "data":"週一 2023/01/01",
         "record":[
             {
-                "timeSlot":"07:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -528,13 +504,12 @@
                             "name":"Doxycycline"
                         },
                         "dosage":1,
-                        "takingTime":"07:05",
+                        "timeSlot":"07:05",
                         "status":1
                     }
                 ]
             },
             {
-                "timeSlot":"08:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -542,7 +517,7 @@
                             "name":"Alepan"
                         },
                         "dosage":1,
-                        "takingTime":"08:05",
+                        "timeSlot":"08:05",
                         "status":1
                     },
                     {
@@ -551,13 +526,12 @@
                             "name":"Acertil"
                         },
                         "dosage":1,
-                        "takingTime":"08:05",
+                        "timeSlot":"08:05",
                         "status":1
                     }
                 ]
             },
             {
-                "timeSlot":"11:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -565,13 +539,12 @@
                             "name":"Doxycycline"
                         },
                         "dosage":1,
-                        "takingTime":"11:03",
+                        "timeSlot":"11:03",
                         "status":1
                     }
                 ]
             },
             {
-                "timeSlot":"12:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -579,7 +552,7 @@
                             "name":"Alepan"
                         },
                         "dosage":1,
-                        "takingTime":"",
+                        "timeSlot":"12:00",
                         "status":2
                     }
                 ]
@@ -590,7 +563,6 @@
         "data":"週日 2022/12/31",
         "record":[
             {
-                "timeSlot":"07:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -598,13 +570,12 @@
                             "name":"Doxycycline"
                         },
                         "dosage":1,
-                        "takingTime":"07:05",
+                        "timeSlot":"07:05",
                         "status":1
                     }
                 ]
             },
             {
-                "timeSlot":"08:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -612,7 +583,7 @@
                             "name":"Alepan"
                         },
                         "dosage":1,
-                        "takingTime":"",
+                        "timeSlot":"08:00",
                         "status":0
                     },
                     {
@@ -621,13 +592,12 @@
                             "name":"Acertil"
                         },
                         "dosage":1,
-                        "takingTime":"",
+                        "timeSlot":"08:00",
                         "status":0
                     }
                 ]
             },
             {
-                "timeSlot":"11:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -635,13 +605,12 @@
                             "name":"Doxycycline"
                         },
                         "dosage":1,
-                        "takingTime":"11:10",
+                        "timeSlot":"11:10",
                         "status":1
                     }
                 ]
             },
             {
-                "timeSlot":"12:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -649,7 +618,7 @@
                             "name":"Alepan"
                         },
                         "dosage":1,
-                        "takingTime":"12:45",
+                        "timeSlot":"12:45",
                         "status":1
                     }
                 ]
@@ -660,7 +629,6 @@
         "data":"週六 2022/12/30",
         "record":[
             {
-                "timeSlot":"07:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -668,13 +636,12 @@
                             "name":"Doxycycline"
                         },
                         "dosage":1,
-                        "takingTime":"07:05",
+                        "timeSlot":"07:05",
                         "status":1
                     }
                 ]
             },
             {
-                "timeSlot":"08:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -682,7 +649,7 @@
                             "name":"Alepan"
                         },
                         "dosage":1,
-                        "takingTime":"08:02",
+                        "timeSlot":"08:02",
                         "status":1
                     },
                     {
@@ -691,13 +658,12 @@
                             "name":"Acertil"
                         },
                         "dosage":1,
-                        "takingTime":"08:05",
+                        "timeSlot":"08:05",
                         "status":1
                     }
                 ]
             },
             {
-                "timeSlot":"11:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -705,13 +671,12 @@
                             "name":"Doxycycline"
                         },
                         "dosage":1,
-                        "takingTime":"11:10",
+                        "timeSlot":"11:10",
                         "status":1
                     }
                 ]
             },
             {
-                "timeSlot":"12:00",
                 "drugsAtSameTime":[
                     {
                         "drug":{
@@ -719,7 +684,7 @@
                             "name":"Alepan"
                         },
                         "dosage":1,
-                        "takingTime":"12:03",
+                        "timeSlot":"12:03",
                         "status":1
                     }
                 ]
