@@ -55,7 +55,7 @@
       "interactingDrugs": [
         {
           "id": 20,
-          "degree": "Major",
+          "degree": "Moderate",
           "name": "Doxycyline",
           "cause": "互相影響療效或增加副作用的嚴重度",
           "timeSlots": [
@@ -65,7 +65,7 @@
         },
         {
           "id": 54,
-          "degree": "Major",
+          "degree": "Moderate",
           "name": "Midamor",
           "cause": "互相影響療效或增加副作用的嚴重度",
           "timeSlots": [
@@ -108,7 +108,7 @@
       "interactingDrugs": [
         {
           "id": 77,
-          "degree": "Major",
+          "degree": "Moderate",
           "name": "Acertil",
           "cause": "互相影響療效或增加副作用的嚴重度",
           "timeSlots": []
@@ -190,7 +190,7 @@
   "interactingDrugs": [
     {
       "id": 77,
-      "degree": "Major",
+      "degree": "Moderate",
       "name": "Acertil",
       "cause": "互相影響療效或增加副作用的嚴重度",
       "timeSlots": []
