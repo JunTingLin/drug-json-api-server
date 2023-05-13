@@ -187,17 +187,29 @@
       ]
     }
   ],
-  "interactingDrugs": [
+  "interactingDrugs1": [
     {
       "id": 77,
       "degree": "Moderate",
+      "name": "Alepam",
+      "cause": "互相影響療效或增加副作用的嚴重度",
+      "timeSlots": [
+        "08:00",
+        "12:00"
+      ]
+    }
+  ],
+  "interactingDrugs2": [
+    {
+      "id": 77,
+      "degree": "Major",
       "name": "Acertil",
       "cause": "互相影響療效或增加副作用的嚴重度",
       "timeSlots": []
     },
     {
       "id": 90,
-      "degree": "Minor",
+      "degree": "Moderate",
       "name": "Rifampin",
       "cause": "可能會增加特定副作用的危險。",
       "timeSlots": [
