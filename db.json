@@ -22,8 +22,8 @@
       "frequency": 3,
       "timeSlots": [
         "08:00",
-        "12:30",
-        "18:30"
+        "12:00",
+        "23:00"
       ],
       "timings": [
         0,
@@ -65,8 +65,8 @@
           "name": "Doxycyline",
           "cause": "互相影響療效或增加副作用的嚴重度",
           "timeSlots": [
-            "07:30",
-            "11:30"
+            "07:00",
+            "11:00"
           ]
         },
         {
@@ -75,7 +75,7 @@
           "name": "Midamor",
           "cause": "互相影響療效或增加副作用的嚴重度",
           "timeSlots": [
-            "14:30"
+            "14:00"
           ]
         }
       ],
@@ -129,7 +129,7 @@
           "cause": "可能會增加特定副作用的危險。",
           "timeSlots": [
             "07:00",
-            "15:30"
+            "15:00"
           ]
         }
       ],
@@ -138,8 +138,8 @@
       "position": 5,
       "frequency": 2,
       "timeSlots": [
-        "07:30",
-        "11:30"
+        "07:00",
+        "11:00"
       ],
       "timings": [
         1
@@ -228,8 +228,8 @@
       "name": "Rifampin",
       "cause": "可能會增加特定副作用的危險。",
       "timeSlots": [
-        "07:30",
-        "11:30"
+        "07:00",
+        "11:00"
       ]
     }
   ],
@@ -254,7 +254,7 @@
         "id": 20,
         "name": "Doxycycline"
       },
-      "timeSlot": "07:30",
+      "timeSlot": "07:00",
       "dosage": 1
     },
     {
@@ -272,7 +272,7 @@
         "id": 20,
         "name": "Doxycycline"
       },
-      "timeSlot": "11:30",
+      "timeSlot": "11:00",
       "dosage": 1
     },
     {
@@ -281,7 +281,7 @@
         "id": 125,
         "name": "Alepan"
       },
-      "timeSlot": "12:30",
+      "timeSlot": "12:00",
       "dosage": 1
     },
     {
@@ -290,7 +290,7 @@
         "id": 125,
         "name": "Alepan"
       },
-      "timeSlot": "18:30",
+      "timeSlot": "23:00",
       "dosage": 1
     }
   ],
