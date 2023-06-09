@@ -5,7 +5,8 @@
       "hospital":{
         "name": "臺北榮民總醫院",
         "department": "精神科",
-        "phone": "0228732151"
+        "phone": "0228732151",
+        "extension": "8733"
       },
       "drug": {
         "id": 125,
@@ -48,7 +49,8 @@
       "hospital":{
         "name": "臺北榮民總醫院",
         "department": "心臟內科",
-        "phone": "0228732151"
+        "phone": "0228732151",
+        "extension": ""
       },
       "drug": {
         "id": 77,
@@ -104,7 +106,8 @@
       "hospital":{
         "name": "臺北市立聯合醫院",
         "department": "家庭內科",
-        "phone": "0225523234"
+        "phone": "0225523234",
+        "extension": ""
       },
       "drug": {
         "id": 20,
@@ -164,7 +167,8 @@
       "hospital":{
         "name": "臺北榮民總醫院",
         "department": "心臟內科",
-        "phone": "0228732151"
+        "phone": "0228732151",
+        "extension": ""
       },
       "onDemand": true,
       "drug": {
@@ -184,7 +188,8 @@
       "hospital":{
         "name": "臺北市立聯合醫院",
         "department": "家庭內科",
-        "phone": "0225523234"
+        "phone": "0225523234",
+        "extension": ""
       },
       "onDemand": false,
       "drug": {
