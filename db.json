@@ -260,7 +260,8 @@
         "name": "Doxycycline"
       },
       "timeSlot": "07:00",
-      "dosage": 1
+      "dosage": 1,
+      "position": 5
     },
     {
       "id": 56,
@@ -269,7 +270,8 @@
         "name": "Alepan"
       },
       "timeSlot": "08:00",
-      "dosage": 1
+      "dosage": 1,
+      "position": 9
     },
     {
       "id": 56,
@@ -278,7 +280,8 @@
         "name": "Doxycycline"
       },
       "timeSlot": "11:00",
-      "dosage": 1
+      "dosage": 1,
+      "position": 5
     },
     {
       "id": 56,
@@ -287,7 +290,8 @@
         "name": "Alepan"
       },
       "timeSlot": "12:00",
-      "dosage": 1
+      "dosage": 1,
+      "position": 9
     },
     {
       "id": 56,
@@ -296,7 +300,8 @@
         "name": "Alepan"
       },
       "timeSlot": "23:00",
-      "dosage": 1
+      "dosage": 1,
+      "position": 9
     }
   ],
   "hospitals": [
