@@ -2,7 +2,7 @@
   "drugRecords": [
     {
       "id": 20,
-      "hospital":{
+      "hospital": {
         "name": "臺北榮民總醫院",
         "department": "精神科",
         "phone": "0228732151",
@@ -23,8 +23,7 @@
       "frequency": 3,
       "timeSlots": [
         "08:00",
-        "12:00",
-        "23:00"
+        "12:00"
       ],
       "timings": [
         0,
@@ -46,7 +45,7 @@
     },
     {
       "id": 34,
-      "hospital":{
+      "hospital": {
         "name": "臺北榮民總醫院",
         "department": "心臟內科",
         "phone": "0228732151",
@@ -103,7 +102,7 @@
     },
     {
       "id": 10,
-      "hospital":{
+      "hospital": {
         "name": "臺北市立聯合醫院",
         "department": "家庭內科",
         "phone": "0225523234",
@@ -164,7 +163,7 @@
   "drugBagInformation": [
     {
       "id": 34,
-      "hospital":{
+      "hospital": {
         "name": "臺北榮民總醫院",
         "department": "心臟內科",
         "phone": "0228732151",
@@ -185,7 +184,7 @@
     },
     {
       "id": 10,
-      "hospital":{
+      "hospital": {
         "name": "臺北市立聯合醫院",
         "department": "家庭內科",
         "phone": "0225523234",
@@ -322,411 +321,648 @@
   ],
   "takingRecordByDrug": [
     {
-      "id":10,
-      "drug":{
+      "id": 10,
+      "drug": {
         "id": 125,
         "name": "Alepan"
       },
-      "recordList":[
+      "recordList": [
         {
-          "date":"週一 2023/01/01",
-          "record":[
+          "date": "週一 2023/01/01",
+          "record": [
             {
-              "timeSlot":"08:05",
+              "timeSlot": "08:05",
               "dosage": 1,
-              "status":1
+              "status": 1
             },
             {
-              "timeSlot":"12:00",
+              "timeSlot": "12:00",
               "dosage": 1,
-              "status":2
+              "status": 2
             }
           ]
         },
         {
-          "date":"週日 2022/12/31",
-          "record":[
+          "date": "週日 2022/12/31",
+          "record": [
             {
-              "timeSlot":"08:00",
+              "timeSlot": "08:00",
               "dosage": 1,
-              "status":0
+              "status": 0
             },
             {
-              "timeSlot":"12:45",
+              "timeSlot": "12:45",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         },
         {
-          "date":"週六 2022/12/30",
-          "record":[
+          "date": "週六 2022/12/30",
+          "record": [
             {
-              "timeSlot":"08:02",
+              "timeSlot": "08:02",
               "dosage": 1,
-              "status":1
+              "status": 1
             },
             {
-              "timeSlot":"12:03",
+              "timeSlot": "12:03",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         }
       ]
     },
     {
-      "id":34,
-      "drug":{
+      "id": 34,
+      "drug": {
         "id": 77,
         "name": "Acertil"
       },
-      "recordList":[
+      "recordList": [
         {
-          "date":"週一 2023/01/01",
-          "record":[
+          "date": "週一 2023/01/01",
+          "record": [
             {
-              "timeSlot":"08:05",
+              "timeSlot": "08:05",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         },
         {
-          "date":"週日 2022/12/31",
-          "record":[
+          "date": "週日 2022/12/31",
+          "record": [
             {
-              "timeSlot":"08:00",
+              "timeSlot": "08:00",
               "dosage": 1,
-              "status":0
+              "status": 0
             }
           ]
         },
         {
-          "date":"週六 2022/12/30",
-          "record":[
+          "date": "週六 2022/12/30",
+          "record": [
             {
-              "timeSlot":"08:05",
+              "timeSlot": "08:05",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         }
       ]
     },
     {
-      "id":7,
-      "drug":{
+      "id": 7,
+      "drug": {
         "id": 20,
         "name": "Doxycycline"
       },
-      "recordList":[
+      "recordList": [
         {
-          "date":"週一 2023/01/01",
-          "record":[
+          "date": "週一 2023/01/01",
+          "record": [
             {
-              "timeSlot":"07:05",
+              "timeSlot": "07:05",
               "dosage": 1,
-              "status":1
+              "status": 1
             },
             {
-              "timeSlot":"11:03",
+              "timeSlot": "11:03",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         },
         {
-          "date":"週日 2022/12/31",
-          "record":[
+          "date": "週日 2022/12/31",
+          "record": [
             {
-              "timeSlot":"07:05",
+              "timeSlot": "07:05",
               "dosage": 1,
-              "status":1
+              "status": 1
             },
             {
-              "timeSlot":"11:10",
+              "timeSlot": "11:10",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         },
         {
-          "date":"週六 2022/12/30",
-          "record":[
+          "date": "週六 2022/12/30",
+          "record": [
             {
-              "timeSlot":"07:05",
+              "timeSlot": "07:05",
               "dosage": 1,
-              "status":1
+              "status": 1
             },
             {
-              "timeSlot":"11:10",
+              "timeSlot": "11:10",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         },
         {
-          "date":"週五 2022/12/29",
-          "record":[
+          "date": "週五 2022/12/29",
+          "record": [
             {
-              "timeSlot":"07:05",
+              "timeSlot": "07:05",
               "dosage": 1,
-              "status":1
+              "status": 1
             },
             {
-              "timeSlot":"11:10",
+              "timeSlot": "11:10",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         },
         {
-          "date":"週四 2022/12/28",
-          "record":[
+          "date": "週四 2022/12/28",
+          "record": [
             {
-              "timeSlot":"07:05",
+              "timeSlot": "07:05",
               "dosage": 1,
-              "status":1
+              "status": 1
             },
             {
-              "timeSlot":"11:00",
+              "timeSlot": "11:00",
               "dosage": 1,
-              "status":0
+              "status": 0
             }
           ]
         },
         {
-          "date":"週三 2022/12/27",
-          "record":[
+          "date": "週三 2022/12/27",
+          "record": [
             {
-              "timeSlot":"07:00",
+              "timeSlot": "07:00",
               "dosage": 1,
-              "status":2
+              "status": 2
             },
             {
-              "timeSlot":"11:10",
+              "timeSlot": "11:10",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         },
         {
-          "date":"週二 2022/12/26",
-          "record":[
+          "date": "週二 2022/12/26",
+          "record": [
             {
-              "timeSlot":"07:05",
+              "timeSlot": "07:05",
               "dosage": 1,
-              "status":1
+              "status": 1
             },
             {
-              "timeSlot":"11:10",
+              "timeSlot": "11:10",
               "dosage": 1,
-              "status":1
+              "status": 1
             }
           ]
         }
       ]
     }
   ],
-  "takingRecordByTime":[
+  "takingRecordByTime": [
     {
-        "data":"週一 2023/01/01",
-        "record":[
+      "data": "週一 2023/01/01",
+      "record": [
+        {
+          "drugsAtSameTime": [
             {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":7,
-                            "name":"Doxycycline"
-                        },
-                        "dosage":1,
-                        "timeSlot":"07:05",
-                        "status":1
-                    }
-                ]
-            },
-            {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":125,
-                            "name":"Alepan"
-                        },
-                        "dosage":1,
-                        "timeSlot":"08:05",
-                        "status":1
-                    },
-                    {
-                        "drug":{
-                            "id":77,
-                            "name":"Acertil"
-                        },
-                        "dosage":1,
-                        "timeSlot":"08:05",
-                        "status":1
-                    }
-                ]
-            },
-            {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":7,
-                            "name":"Doxycycline"
-                        },
-                        "dosage":1,
-                        "timeSlot":"11:03",
-                        "status":1
-                    }
-                ]
-            },
-            {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":125,
-                            "name":"Alepan"
-                        },
-                        "dosage":1,
-                        "timeSlot":"12:00",
-                        "status":2
-                    }
-                ]
+              "drug": {
+                "id": 7,
+                "name": "Doxycycline"
+              },
+              "dosage": 1,
+              "timeSlot": "07:05",
+              "status": 1
             }
-        ]
+          ]
+        },
+        {
+          "drugsAtSameTime": [
+            {
+              "drug": {
+                "id": 125,
+                "name": "Alepan"
+              },
+              "dosage": 1,
+              "timeSlot": "08:05",
+              "status": 1
+            },
+            {
+              "drug": {
+                "id": 77,
+                "name": "Acertil"
+              },
+              "dosage": 1,
+              "timeSlot": "08:05",
+              "status": 1
+            }
+          ]
+        },
+        {
+          "drugsAtSameTime": [
+            {
+              "drug": {
+                "id": 7,
+                "name": "Doxycycline"
+              },
+              "dosage": 1,
+              "timeSlot": "11:03",
+              "status": 1
+            }
+          ]
+        },
+        {
+          "drugsAtSameTime": [
+            {
+              "drug": {
+                "id": 125,
+                "name": "Alepan"
+              },
+              "dosage": 1,
+              "timeSlot": "12:00",
+              "status": 2
+            }
+          ]
+        }
+      ]
     },
     {
-        "data":"週日 2022/12/31",
-        "record":[
+      "data": "週日 2022/12/31",
+      "record": [
+        {
+          "drugsAtSameTime": [
             {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":7,
-                            "name":"Doxycycline"
-                        },
-                        "dosage":1,
-                        "timeSlot":"07:05",
-                        "status":1
-                    }
-                ]
-            },
-            {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":125,
-                            "name":"Alepan"
-                        },
-                        "dosage":1,
-                        "timeSlot":"08:00",
-                        "status":0
-                    },
-                    {
-                        "drug":{
-                            "id":77,
-                            "name":"Acertil"
-                        },
-                        "dosage":1,
-                        "timeSlot":"08:00",
-                        "status":0
-                    }
-                ]
-            },
-            {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":7,
-                            "name":"Doxycycline"
-                        },
-                        "dosage":1,
-                        "timeSlot":"11:10",
-                        "status":1
-                    }
-                ]
-            },
-            {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":125,
-                            "name":"Alepan"
-                        },
-                        "dosage":1,
-                        "timeSlot":"12:45",
-                        "status":1
-                    }
-                ]
+              "drug": {
+                "id": 7,
+                "name": "Doxycycline"
+              },
+              "dosage": 1,
+              "timeSlot": "07:05",
+              "status": 1
             }
-        ]
+          ]
+        },
+        {
+          "drugsAtSameTime": [
+            {
+              "drug": {
+                "id": 125,
+                "name": "Alepan"
+              },
+              "dosage": 1,
+              "timeSlot": "08:00",
+              "status": 0
+            },
+            {
+              "drug": {
+                "id": 77,
+                "name": "Acertil"
+              },
+              "dosage": 1,
+              "timeSlot": "08:00",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "drugsAtSameTime": [
+            {
+              "drug": {
+                "id": 7,
+                "name": "Doxycycline"
+              },
+              "dosage": 1,
+              "timeSlot": "11:10",
+              "status": 1
+            }
+          ]
+        },
+        {
+          "drugsAtSameTime": [
+            {
+              "drug": {
+                "id": 125,
+                "name": "Alepan"
+              },
+              "dosage": 1,
+              "timeSlot": "12:45",
+              "status": 1
+            }
+          ]
+        }
+      ]
     },
     {
-        "data":"週六 2022/12/30",
-        "record":[
+      "data": "週六 2022/12/30",
+      "record": [
+        {
+          "drugsAtSameTime": [
             {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":7,
-                            "name":"Doxycycline"
-                        },
-                        "dosage":1,
-                        "timeSlot":"07:05",
-                        "status":1
-                    }
-                ]
-            },
-            {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":125,
-                            "name":"Alepan"
-                        },
-                        "dosage":1,
-                        "timeSlot":"08:02",
-                        "status":1
-                    },
-                    {
-                        "drug":{
-                            "id":77,
-                            "name":"Acertil"
-                        },
-                        "dosage":1,
-                        "timeSlot":"08:05",
-                        "status":1
-                    }
-                ]
-            },
-            {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":7,
-                            "name":"Doxycycline"
-                        },
-                        "dosage":1,
-                        "timeSlot":"11:10",
-                        "status":1
-                    }
-                ]
-            },
-            {
-                "drugsAtSameTime":[
-                    {
-                        "drug":{
-                            "id":125,
-                            "name":"Alepan"
-                        },
-                        "dosage":1,
-                        "timeSlot":"12:03",
-                        "status":1
-                    }
-                ]
+              "drug": {
+                "id": 7,
+                "name": "Doxycycline"
+              },
+              "dosage": 1,
+              "timeSlot": "07:05",
+              "status": 1
             }
-        ]
+          ]
+        },
+        {
+          "drugsAtSameTime": [
+            {
+              "drug": {
+                "id": 125,
+                "name": "Alepan"
+              },
+              "dosage": 1,
+              "timeSlot": "08:02",
+              "status": 1
+            },
+            {
+              "drug": {
+                "id": 77,
+                "name": "Acertil"
+              },
+              "dosage": 1,
+              "timeSlot": "08:05",
+              "status": 1
+            }
+          ]
+        },
+        {
+          "drugsAtSameTime": [
+            {
+              "drug": {
+                "id": 7,
+                "name": "Doxycycline"
+              },
+              "dosage": 1,
+              "timeSlot": "11:10",
+              "status": 1
+            }
+          ]
+        },
+        {
+          "drugsAtSameTime": [
+            {
+              "drug": {
+                "id": 125,
+                "name": "Alepan"
+              },
+              "dosage": 1,
+              "timeSlot": "12:03",
+              "status": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "takingRecords": [
+    {
+      "id": 1,
+      "data": "2022/12/30",
+      "drug": {
+        "id": 7,
+        "name": "Doxycycline"
+      },
+      "dosage": 1,
+      "timeSlot": "07:05",
+      "//": "status: 0 - missed(initial), 1 - taken, 2 - not taken",
+      "status": 1,
+      "position": 5
+    },
+    {
+      "id": 2,
+      "data": "2022/12/30",
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "dosage": 1,
+      "timeSlot": "08:02",
+      "status": 1,
+      "position": 9
+    },
+    {
+      "id": 3,
+      "data": "2022/12/30",
+      "drug": {
+        "id": 77,
+        "name": "Acertil"
+      },
+      "dosage": 1,
+      "timeSlot": "08:05",
+      "status": 1,
+      "position": 2
+    },
+    {
+      "id": 4,
+      "data": "2022/12/30",
+      "drug": {
+        "id": 7,
+        "name": "Doxycycline"
+      },
+      "dosage": 1,
+      "timeSlot": "11:10",
+      "status": 1,
+      "position": 5
+    },
+    {
+      "id": 5,
+      "data": "2022/12/30",
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "dosage": 1,
+      "timeSlot": "12:03",
+      "status": 1,
+      "position": 9
+    },
+
+    
+    {
+      "id": 6,
+      "data": "2022/12/31",
+      "drug": {
+        "id": 7,
+        "name": "Doxycycline"
+      },
+      "dosage": 1,
+      "timeSlot": "07:05",
+      "status": 1,
+      "position": 5
+    },
+    {
+      "id": 7,
+      "data": "2022/12/31",
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "dosage": 1,
+      "timeSlot": "08:00",
+      "status": 2,
+      "position": 9
+    },
+    {
+      "id": 8,
+      "data": "2022/12/31",
+      "drug": {
+        "id": 77,
+        "name": "Acertil"
+      },
+      "dosage": 1,
+      "timeSlot": "08:00",
+      "status": 2,
+      "position": 2
+    },
+    {
+      "id": 9,
+      "data": "2022/12/31",
+      "drug": {
+        "id": 7,
+        "name": "Doxycycline"
+      },
+      "dosage": 1,
+      "timeSlot": "11:10",
+      "status": 1,
+      "position": 5
+    },
+    {
+      "id": 10,
+      "data": "2022/12/31",
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "dosage": 1,
+      "timeSlot": "12:45",
+      "status": 1,
+      "position": 9
+    },
+
+
+    {
+      "id": 11,
+      "data": "2023/01/01",
+      "drug": {
+        "id": 7,
+        "name": "Doxycycline"
+      },
+      "dosage": 1,
+      "timeSlot": "07:05",
+      "status": 1,
+      "position": 5
+    },
+    {
+      "id": 12,
+      "data": "2023/01/01",
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "dosage": 1,
+      "timeSlot": "08:05",
+      "status": 1,
+      "position": 9
+    },
+    {
+      "id": 13,
+      "data": "2023/01/01",
+      "drug": {
+        "id": 77,
+        "name": "Acertil"
+      },
+      "dosage": 1,
+      "timeSlot": "08:05",
+      "status": 1,
+      "position": 2
+    },
+    {
+      "id": 14,
+      "data": "2023/01/01",
+      "drug": {
+        "id": 7,
+        "name": "Doxycycline"
+      },
+      "dosage": 1,
+      "timeSlot": "11:03",
+      "status": 1,
+      "position": 5
+    },
+    {
+      "id": 15,
+      "data": "2023/01/01",
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "dosage": 1,
+      "timeSlot": "12:00",
+      "status": 0,
+      "position": 9
+    },
+
+
+    {
+      "id": 16,
+      "data": "2023/01/02",
+      "drug": {
+        "id": 7,
+        "name": "Doxycycline"
+      },
+      "dosage": 1,
+      "timeSlot": "07:00",
+      "status": 0,
+      "position": 5
+    },
+    {
+      "id": 17,
+      "data": "2023/01/02",
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "dosage": 1,
+      "timeSlot": "08:00",
+      "status": 0,
+      "position": 9
+    },
+    {
+      "id": 18,
+      "data": "2023/01/02",
+      "drug": {
+        "id": 7,
+        "name": "Doxycycline"
+      },
+      "dosage": 1,
+      "timeSlot": "11:00",
+      "status": 0,
+      "position": 5
+    },
+    {
+      "id": 19,
+      "data": "2023/01/02",
+      "drug": {
+        "id": 125,
+        "name": "Alepan"
+      },
+      "dosage": 1,
+      "timeSlot": "12:00",
+      "status": 0,
+      "position": 9
     }
   ]
 }
