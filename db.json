@@ -250,7 +250,7 @@
       "stock": 28
     },
     {
-      "id": 56,
+      "id": 57,
       "drug": {
         "id": 125,
         "name": "Alepan"
@@ -261,7 +261,7 @@
       "stock": 0
     },
     {
-      "id": 56,
+      "id": 58,
       "drug": {
         "id": 20,
         "name": "Doxycycline"
@@ -272,7 +272,7 @@
       "stock": 28
     },
     {
-      "id": 56,
+      "id": 59,
       "drug": {
         "id": 125,
         "name": "Alepan"
@@ -283,7 +283,7 @@
       "stock": 0
     },
     {
-      "id": 56,
+      "id": 60,
       "drug": {
         "id": 125,
         "name": "Alepan"
