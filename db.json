@@ -246,7 +246,8 @@
       },
       "timeSlot": "07:00",
       "dosage": 1,
-      "position": 5
+      "position": 5,
+      "stock": 28
     },
     {
       "id": 56,
@@ -256,7 +257,8 @@
       },
       "timeSlot": "08:00",
       "dosage": 1,
-      "position": 9
+      "position": 9,
+      "stock": 0
     },
     {
       "id": 56,
@@ -266,7 +268,8 @@
       },
       "timeSlot": "11:00",
       "dosage": 1,
-      "position": 5
+      "position": 5,
+      "stock": 28
     },
     {
       "id": 56,
@@ -276,7 +279,8 @@
       },
       "timeSlot": "12:00",
       "dosage": 1,
-      "position": 9
+      "position": 9,
+      "stock": 0
     },
     {
       "id": 56,
@@ -286,7 +290,8 @@
       },
       "timeSlot": "23:00",
       "dosage": 1,
-      "position": 9
+      "position": 9,
+      "stock": 0
     }
   ],
   "hospitals": [
