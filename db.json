@@ -321,8 +321,7 @@
       "dosage": 1,
       "timeSlot": "07:05",
       "//": "status: 0 - missed(initial), 1 - taken, 2 - not taken",
-      "status": 1,
-      "position": 5
+      "status": 1
     },
     {
       "id": 2,
@@ -333,8 +332,7 @@
       },
       "dosage": 1,
       "timeSlot": "08:02",
-      "status": 1,
-      "position": 9
+      "status": 1
     },
     {
       "id": 3,
@@ -345,8 +343,7 @@
       },
       "dosage": 1,
       "timeSlot": "08:05",
-      "status": 1,
-      "position": 2
+      "status": 1
     },
     {
       "id": 4,
@@ -357,8 +354,7 @@
       },
       "dosage": 1,
       "timeSlot": "11:10",
-      "status": 1,
-      "position": 5
+      "status": 1
     },
     {
       "id": 5,
@@ -369,8 +365,7 @@
       },
       "dosage": 1,
       "timeSlot": "12:03",
-      "status": 1,
-      "position": 9
+      "status": 1
     },
 
 
@@ -383,8 +378,7 @@
       },
       "dosage": 1,
       "timeSlot": "07:05",
-      "status": 1,
-      "position": 5
+      "status": 1
     },
     {
       "id": 7,
@@ -395,8 +389,7 @@
       },
       "dosage": 1,
       "timeSlot": "08:00",
-      "status": 2,
-      "position": 9
+      "status": 2
     },
     {
       "id": 8,
@@ -407,8 +400,7 @@
       },
       "dosage": 1,
       "timeSlot": "08:00",
-      "status": 2,
-      "position": 2
+      "status": 2
     },
     {
       "id": 9,
@@ -419,8 +411,7 @@
       },
       "dosage": 1,
       "timeSlot": "11:10",
-      "status": 1,
-      "position": 5
+      "status": 1
     },
     {
       "id": 10,
@@ -431,8 +422,7 @@
       },
       "dosage": 1,
       "timeSlot": "12:45",
-      "status": 1,
-      "position": 9
+      "status": 1
     },
 
 
@@ -445,8 +435,7 @@
       },
       "dosage": 1,
       "timeSlot": "07:05",
-      "status": 1,
-      "position": 5
+      "status": 1
     },
     {
       "id": 12,
@@ -457,8 +446,7 @@
       },
       "dosage": 1,
       "timeSlot": "08:05",
-      "status": 1,
-      "position": 9
+      "status": 1
     },
     {
       "id": 13,
@@ -469,8 +457,7 @@
       },
       "dosage": 1,
       "timeSlot": "08:05",
-      "status": 1,
-      "position": 2
+      "status": 1
     },
     {
       "id": 14,
@@ -481,8 +468,7 @@
       },
       "dosage": 1,
       "timeSlot": "11:03",
-      "status": 1,
-      "position": 5
+      "status": 1
     },
     {
       "id": 15,
@@ -493,8 +479,7 @@
       },
       "dosage": 1,
       "timeSlot": "12:00",
-      "status": 0,
-      "position": 9
+      "status": 0
     },
 
 
@@ -507,8 +492,7 @@
       },
       "dosage": 1,
       "timeSlot": "07:00",
-      "status": 0,
-      "position": 5
+      "status": 0
     },
     {
       "id": 17,
@@ -519,8 +503,7 @@
       },
       "dosage": 1,
       "timeSlot": "08:00",
-      "status": 0,
-      "position": 9
+      "status": 0
     },
     {
       "id": 18,
@@ -531,8 +514,7 @@
       },
       "dosage": 1,
       "timeSlot": "11:00",
-      "status": 0,
-      "position": 5
+      "status": 0
     },
     {
       "id": 19,
@@ -543,8 +525,7 @@
       },
       "dosage": 1,
       "timeSlot": "12:00",
-      "status": 0,
-      "position": 9
+      "status": 0
     }
   ]
 }
