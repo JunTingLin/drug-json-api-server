@@ -19,7 +19,7 @@
       "onDemand": false,
       "interactingDrugs": [],
       "dosage": 1,
-      "stock": 0,
+      "stock": 10,
       "position": 9,
       "frequency": 3,
       "timeSlots": [
@@ -213,7 +213,7 @@
     {
       "id": 77,
       "degree": "Moderate",
-      "name": "Alepam",
+      "name": "Alepan",
       "cause": "互相影響療效或增加副作用的嚴重度",
       "timeSlots": [
         "08:00",
@@ -261,7 +261,7 @@
       "timeSlot": "08:00",
       "dosage": 1,
       "position": 9,
-      "stock": 0
+      "stock": 10
     },
     {
       "id": 58,
@@ -283,7 +283,7 @@
       "timeSlot": "12:00",
       "dosage": 1,
       "position": 9,
-      "stock": 0
+      "stock": 10
     },
     {
       "id": 60,
@@ -294,7 +294,7 @@
       "timeSlot": "23:00",
       "dosage": 1,
       "position": 9,
-      "stock": 0
+      "stock": 10
     }
   ],
   "hospitals": [
