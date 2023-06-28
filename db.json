@@ -15,6 +15,7 @@
         "indication": "器質性疾病或情緒壓力引起的焦慮。精神安定劑、酒精戒斷症狀。",
         "sideEffect": "鎮靜、倦怠、憂鬱、頭暈、運動不能、健忘、唾液過度分泌、口乾、昏眩、激動、神經質。"
       },
+      "indicationTag": "精神安定劑",
       "onDemand": false,
       "interactingDrugs": [],
       "dosage": 1,
@@ -58,6 +59,7 @@
         "indication": "血管收縮素轉換酶抑制劑，用來治療高血壓、心臟衰竭。",
         "sideEffect": "咳嗽、頭痛、頭暈、想睡、噁心、嘔吐、消化不良或輕微的腹瀉"
       },
+      "indicationTag": "降血壓",
       "onDemand": true,
       "interactingDrugs": [
         {
@@ -115,6 +117,7 @@
         "indication": "治療多種細菌感染，其中主要包括痤瘡(Acne，又稱青春痘)、玫瑰斑(Rosacea)預防瘧疾(Malaria)。去氧羥四環素只能治療細菌感染，無法用於感冒、流感等病毒性感染",
         "sideEffect": "劇烈頭痛(Severe headache)、頭暈(Dizziness)、視線模糊(Blurred vision)、發燒、發冷、身體疼痛、流感症狀、腺體腫脹、起疹子(Rash)或發癢、關節痛。"
       },
+      "indicationTag": "抗生素",
       "onDemand": false,
       "interactingDrugs": [
         {
