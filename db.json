@@ -61,7 +61,7 @@
       },
       "indicationTag": "降血壓",
       "onDemand": true,
-      "interactionsWithDrugsAlreadyTaking": [
+      "interactingDrugs": [
         {
           "id": 20,
           "degree": "Moderate",
@@ -209,7 +209,7 @@
       ]
     }
   ],
-  "interactingDrugs1": [
+  "interactionsWithDrugsAlreadyTaking1": [
     {
       "id": 77,
       "degree": "Moderate",
@@ -221,7 +221,7 @@
       ]
     }
   ],
-  "interactingDrugs2": [
+  "interactionsWithDrugsAlreadyTaking2": [
     {
       "id": 77,
       "degree": "Major",
