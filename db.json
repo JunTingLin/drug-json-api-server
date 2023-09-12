@@ -188,24 +188,24 @@
     {
       "id": 10,
       "hospital": {
-        "name": "臺北市立聯合醫院",
-        "department": "家庭內科",
-        "phone": "0225523234",
+        "name": "新光吳火獅紀念醫院",
+        "department": "null",
+        "phone": "028332211#2922",
         "extension": ""
       },
       "onDemand": false,
       "drug": {
         "id": 20,
-        "name": "Doxycycline",
-        "appearance": "深色膠囊。",
-        "indication": "治療多種細菌感染，其中主要包括痤瘡(Acne，又稱青春痘)、玫瑰斑(Rosacea)預防瘧疾(Malaria)。去氧羥四環素只能治療細菌感染，無法用於感冒、流感等病毒性感染",
-        "sideEffect": "劇烈頭痛(Severe headache)、頭暈(Dizziness)、視線模糊(Blurred vision)、發燒、發冷、身體疼痛、流感症狀、腺體腫脹、起疹子(Rash)或發癢、關節痛。"
+        "name": "imipramine",
+        "appearance": "橘紅色，圓形錠，上有 CG、210 樣。",
+        "indication": "治療憂鬱症、焦慮症等。",
+        "sideEffect": "胃部不舒服、嗜睡、虛弱或疲勞、躁動或焦慮 、失眠、夢饜、口乾、皮膚對太陽光變的比平常更敏感、胃口改變或體重改變等等。"
       },
       "dosage": 1,
-      "stock": 20,
-      "frequency": 2,
+      "stock": 28,
+      "frequency": 1,
       "timings": [
-        1
+        7:00
       ]
     }
   ],
