@@ -189,7 +189,7 @@
       "id": 10,
       "hospital": {
         "name": "新光吳火獅紀念醫院",
-        "department": "null",
+        "department": "",
         "phone": "028332211",
         "extension": "2922"
       },
